@@ -9,8 +9,7 @@ A 3D driving game that runs in the browser. One HTML file, no install.
 
 ## Play
 
-- **Play online:** https://jackserious76-ship-it.github.io/isabellas-car-simulator/
-- **Download:** save `index.html` and open it in Chrome, Safari or Edge (needs internet for the 3D engine and fonts)
+Save `index.html` and open it in Chrome, Safari or Edge (needs internet for the 3D engine and fonts).
 
 ## Credits
 
